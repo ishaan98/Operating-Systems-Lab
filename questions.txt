@@ -1,0 +1,11 @@
+WAP to swap two numbers using 3rd variable and without using 3rd variable 
+
+WAP to find out the area of a circle
+
+WAP to find out the area and perimeter of a triangle
+
+WAP to convert temperature from fahrenheit to celcius
+
+WAP to read a number of 4 digits and reverse it 
+
+

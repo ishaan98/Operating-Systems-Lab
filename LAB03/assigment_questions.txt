@@ -1,0 +1,13 @@
+Check a number is odd or even.
+Smallest between 3 numbers
+Average and grade of student for 3 different subjects
+Check if year is leap or not
+Write a script to check :
+  1. file exists or not
+  2. file is empty or not
+  3. file has read permission or not
+  4. file has write write permission or not
+  5. file has excute permission or not
+  6. file is block special file or not
+  7. file is character special file or not
+  

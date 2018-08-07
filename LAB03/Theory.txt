@@ -1,0 +1,11 @@
+File Test Operators
+
+-e : if the file exists or not
+-r : if the file has read permission
+-w : if the file has write permission
+-x : if the file has EXECUTE permission
+-f : if the file exists and as regular file or not
+-d : if directory exists or not
+-b : if the file is a BLOCK special file
+-c : if the file is a CHARACTER special file
+-i : if the file is empty or not

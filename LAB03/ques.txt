@@ -1,0 +1,11 @@
+WAP to perform all the arithmatic operations using switch case.
+
+Display month according to the input
+
+WAP to find reverse of a number using while loop
+
+WAP to find armstrong within 1000
+
+WAP to print fibonacci series upto 500
+
+WAP to print palindrome numbers within 100 to 1000

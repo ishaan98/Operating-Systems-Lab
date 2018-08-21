@@ -1,5 +1,5 @@
 i=1
-while((i<=500))
+while((i<=1000))
 do
 c=$i
 d=$i

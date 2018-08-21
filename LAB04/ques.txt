@@ -1,0 +1,22 @@
+Write a shell script to enter a character and check whether that character is a lower, upper or special character
+
+Write a shell script to check whether a number is strong or not.
+
+Write a shell script to enter a number and check whether the number is perfect or not.
+
+Write a shell script to display all prime number fom 50 to 100
+
+Write a shell script to diplay the result of the following series ;
+  1 + (1+2) + (1+2+3) + ....... + n
+
+WAP to print pattern :
+
+  1)*
+    * *
+    * * *
+    * * * *
+
+  2)1
+    1 2
+    1 2 3
+    1 2 3 4
